@@ -1,0 +1,11 @@
+for the paint object previously made:
+1-create an add custome object methode , you will need to use proxy design pattern for this option , the user can create a custom shape 
+of his own creation and this shape is then added to the shape lists and can be reused whenever needed
+
+
+
+web based guess the word by drawing it
+random word/movie/Name generated and a lot of people in the server 
+the one in turn draws what describes the word and other players tries to guess what is it in 30 seconds and the one who gets it wins
+every player have only one guess per round 
+points are calculated based on time remaining
